@@ -1,0 +1,12 @@
+{
+  "name": "Pomodoro Timer",
+  "version": "1.0",
+  "description": "Help schedule your productivity with the Pomodoro studying method!",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_icon": "brain.png",
+    "default_popup": "pomodoro.html",
+    "default_title": "Pomodoro Timer"
+  },
+  "permissions": ["activeTab"]
+}

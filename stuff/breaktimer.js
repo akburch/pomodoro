@@ -19,8 +19,8 @@ function startTimer(duration, display) {
 }
 
 window.onload = function () {
-    var fiveMinutes = 1 * 5,
+    var twentyFiveMinutes = 1 * 1500,
         display = document.querySelector('#time');
-    startTimer(fiveMinutes, display);
+    startTimer(twentyFiveMinutes, display);
 };
 
