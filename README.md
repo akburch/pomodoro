@@ -1,3 +1,3 @@
-# personal
+# pomodoro timer google chrome extension
 
-this is just storage for misc projects i do in my free time/for a hackathon
+VERY simple/not very useful google plugin I made in a couple hours.
